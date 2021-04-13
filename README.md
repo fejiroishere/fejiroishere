@@ -1,4 +1,4 @@
-
-hello my name is fejiro
+#introduction
+hello my name is fejiro and i am aries
 # social media
-twitter: f3jir0
+twitter: @f3jir0
